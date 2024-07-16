@@ -4,4 +4,4 @@ title: Ana Sayfa
 ---
 
 # Hoş Geldiniz
-Bu benim Jekyll teması kullanan sitem.
+Herbalife ve Herbalife ürünleri hakkında detayl bilgialmak için doğru adresdesiniz.
