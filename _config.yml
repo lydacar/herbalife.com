@@ -4,6 +4,6 @@ theme: minima
 # Site ayarları
 title: Herbalife
 description: Herbalife ve Herbalife ürünleri hakkında detaylı bilgi almak için doğru adresdesiniz.
-baseurl: "" # "/" kullanıyorsanız bu satırı boş bırakın
+
 url: "https://lydacar.github.io/herbalife.com/" 
 theme: jekyll-theme-primer
