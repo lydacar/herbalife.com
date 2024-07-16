@@ -4,4 +4,4 @@ title: Ana Sayfa
 ---
 
 # Hoş Geldiniz
-Herbalife ve Herbalife ürünleri hakkında detayl bilgialmak için doğru adresdesiniz.
+Herbalife ve Herbalife ürünleri hakkında detaylı bilgi almak için doğru adresdesiniz.
